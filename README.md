@@ -1,4 +1,3 @@
-# Isabel-MatCaps-collection
+# Welcome to Isabel's MatCap Library
 
-Creating Custom MatCaps
 Size: 1024X1024 pixels
